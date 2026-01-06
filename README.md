@@ -1,4 +1,4 @@
-# Sportify Data Analysis – Python
+# Spotify Data Analysis – Python
 
 ## Project Overview
 Analysis of sports/activity data using Python (Pandas & Matplotlib) to uncover trends and insights.
